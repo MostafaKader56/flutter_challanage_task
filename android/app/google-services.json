@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "717393120690",
+    "project_id": "applab2-84af5",
+    "storage_bucket": "applab2-84af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717393120690:android:8a1ca6a91925c696c4a8ab",
+        "android_client_info": {
+          "package_name": "com.application.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlcrfWos2_PsGaMCBt_G-xlVkuyFjlXFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717393120690:android:c31011868fcdbd7cc4a8ab",
+        "android_client_info": {
+          "package_name": "com.technoship.applab2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlcrfWos2_PsGaMCBt_G-xlVkuyFjlXFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
