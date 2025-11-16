@@ -41,7 +41,7 @@ class _OnboardingViewState extends State<OnboardingViewBody> {
       );
     } else {
       SharedPrefsHelper.setOnboardingViewed(true);
-      GoRouter.of(context).go(AppRouter.kHomeView);
+      GoRouter.of(context).go(AppRouter.kLoginView);
     }
   }
 
